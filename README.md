@@ -1,5 +1,5 @@
 ### Hi there 👋 Myself Urvashi Anand
- 🔭 I’m currently working on my problem solving skilldat
+ 🔭 I’m currently working on my problem solving skills
  🌱 I’m currently learning data structures and algorithms 😊
 
 <!--
