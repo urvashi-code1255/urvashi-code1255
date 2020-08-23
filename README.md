@@ -1,5 +1,5 @@
 ### Hi there 👋 Myself Urvashi Anand
- 🔭 I’m currently working on my problem solving skills.🌱and currently learning data structures and algorithms 😊.
+ 🔭 I’m currently working on my problem solving skills 🌱 and currently learning data structures and algorithms 😊.
 
 <!--
 **urvashi-code1255/urvashi-code1255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
