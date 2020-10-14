@@ -30,5 +30,5 @@
 ### Contact with me
 
 <a href="mailto:urvashianand0906@gmail.com"><img align="left" alt="Urvashi | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-<a href="http://www.linkedin.com/in/vishal-0710061a1/"><img align="left" alt="Urvashi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://github.com/Vishal-raj-1"><img align="left" alt="Urvashi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+<a href="https://www.linkedin.com/in/urvashi-anand-6bb449197/"><img align="left" alt="Urvashi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://github.com/urvashi-code1255"><img align="left" alt="Urvashi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
