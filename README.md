@@ -7,6 +7,8 @@
 - 🎯 2021 Goal is to contribute more in open source.
 - 🎈 Fun Fact: I love singing.
 
+<br>
+
 ### Tech Stack I am Familiar With:
 <div class="row">
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
