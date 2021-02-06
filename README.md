@@ -1,37 +1,37 @@
-## Hi there, I am [Urvashi Anand](https://urvashi-code1255.github.io/My-Portfolio/) 👋
+<h2> Hi there, I am <a href="https://urvashi-code1255.github.io/My-Portfolio/">Urvashi Anand </a> <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
+ <img align='right' src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="250"> 
+ 
+- 🏫 I am a second year Undergrad persuing B.Tech in Information Technology at Maharaja Agrasen Institute of Technology.
+- 🍀 I am currently practising javascript and React.js
+- ❤ I love open sourcing. Currently I am Mentoring students for UAceIt Winter Of Mentorship and CrossWoc. Also, I am participating in SWOC and DWOC.
+- 🎯 2021 Goal is to contribute more in open source.
+- 🎈 Fun Fact: I love singing.
 
-### About me
-
-- 🌱 I’m currently diving deep into Web Development.
-- 🔭 I’m currently working on My Problems solving skill.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Hobbies: I love to sing.
-
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
+### Tech Stack I am Familiar With:
+<div class="row">
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div>
 <br /> <br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urvashi-code1255&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
- <br /> <br />
 
 ## &#x1f4c8; GitHub Stats
 ![](https://komarev.com/ghpvc/?username=urvashi-code1255)
 
-![Urvashi's github stats](https://github-readme-stats.vercel.app/api?username=urvashi-code1255&show_icons=true&theme=midnight-purple)
+<img  src="https://github-readme-stats.vercel.app/api?username=urvashi-code1255&show_icons=true&hide_border=true&theme=highcontrast" width="48%" >
 
 
 ### Connect with me
-
-<a href="mailto:urvashianand0906@gmail.com"><img align="left" alt="Urvashi | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-<a href="https://www.linkedin.com/in/urvashi-anand-6bb449197/"><img align="left" alt="Urvashi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://github.com/urvashi-code1255"><img align="left" alt="Urvashi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+<a href="mailto:urvashianand0906@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/urvashi-anand-6bb449197/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/urvashi-code1255"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
