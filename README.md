@@ -3,7 +3,7 @@
  
 - 🏫 I am a second year Undergrad persuing B.Tech in Information Technology at Maharaja Agrasen Institute of Technology.
 - 🍀 I am currently practising javascript and React.js
-- ❤ I love open sourcing. Currently I am Mentoring students for UAceIt Winter Of Mentorship and CrossWoc. Also, I am participating in SWOC and DWOC.
+- ❤ I love open sourcing. Currently I am Mentoring students for Girlscript Summer Of Code, UAceIt Winter Of Mentorship and CrossWoc. Also, I am participating in SWOC and DWOC.
 - 🎯 2021 Goal is to contribute more in open source.
 - 🎈 Fun Fact: I love singing.
 
