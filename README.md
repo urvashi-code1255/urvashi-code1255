@@ -1,4 +1,4 @@
-<h2> Hi there, I am <a href="https://urvashi-code1255.github.io/My-Portfolio/">Urvashi Anand </a> <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
+<h2> Hi there, I am Urvashi Anand<img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
  <img align='right' src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="250"> 
  
 - 🏫 I am a second year Undergrad persuing B.Tech in Information Technology at Maharaja Agrasen Institute of Technology.
